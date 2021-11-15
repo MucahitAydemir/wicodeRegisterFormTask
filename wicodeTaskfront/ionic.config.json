@@ -1,0 +1,7 @@
+{
+  "name": "wicodeFront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
